@@ -7,4 +7,14 @@ header {
 .cabecalho.imagem {
     width: 20%;
 }
-
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+}
+* {
+    margin:0 16px;
+    padding: 24px 0;
+}
+{justify-content: space-around;
+ padding: 24px 0;
+}
